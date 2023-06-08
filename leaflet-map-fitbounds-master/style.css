@@ -1,0 +1,12 @@
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+.dist-marker {
+	font-size: 12px;
+	border: 1px solid #777;
+	border-radius: 10px;
+	text-align: center;
+	color: #000;
+	background: #fff;
+	padding: 1px 3px 4px 1px;
+}
